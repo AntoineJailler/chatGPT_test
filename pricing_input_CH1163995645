@@ -1,0 +1,1109 @@
+{
+  "commandId": "f6140cbf-e625-4366-87b5-aeda997bbf72",
+  "validUntil": "2023-01-13T17:54:20.989798Z",
+  "asOfDateTime": "2023-01-13T17:44:20.989843Z",
+  "loadProduct": {
+    "productDetails": {
+      "pricingDetails": {
+        "productTemplate": "",
+        "product": {
+          "metadata": {
+            "basket": {
+              "basketComponent": [
+                {
+                  "underlying": {
+                    "id": "67108886"
+                  },
+                  "underlyingComponent": {
+                    "metadataMarker": {
+                      "primaryField": "underlying"
+                    },
+                    "underlying": {
+                      "id": "67108886"
+                    }
+                  },
+                  "fixingDetails": {
+                    "initialFixing": {
+                      "observationPeriod": {
+                        "main": {}
+                      },
+                      "spotRefSourced": {
+                        "value": {
+                          "value": 6539
+                        },
+                        "source": {
+                          "id": "INPUT"
+                        }
+                      }
+                    },
+                    "finalFixing": {
+                      "observationPeriod": {
+                        "main": {}
+                      }
+                    }
+                  }
+                },
+                {
+                  "underlying": {
+                    "id": "67110204"
+                  },
+                  "underlyingComponent": {
+                    "metadataMarker": {
+                      "primaryField": "underlying"
+                    },
+                    "underlying": {
+                      "id": "67110204"
+                    }
+                  },
+                  "fixingDetails": {
+                    "initialFixing": {
+                      "observationPeriod": {
+                        "main": {}
+                      },
+                      "spotRefSourced": {
+                        "value": {
+                          "value": 3826
+                        },
+                        "source": {
+                          "id": "INPUT"
+                        }
+                      }
+                    },
+                    "finalFixing": {
+                      "observationPeriod": {
+                        "main": {}
+                      }
+                    }
+                  }
+                },
+                {
+                  "underlying": {
+                    "id": "67115459"
+                  },
+                  "underlyingComponent": {
+                    "metadataMarker": {
+                      "primaryField": "underlying"
+                    },
+                    "underlying": {
+                      "id": "67115459"
+                    }
+                  },
+                  "fixingDetails": {
+                    "initialFixing": {
+                      "observationPeriod": {
+                        "main": {}
+                      },
+                      "spotRefSourced": {
+                        "value": {
+                          "value": 4144
+                        },
+                        "source": {
+                          "id": "INPUT"
+                        }
+                      }
+                    },
+                    "finalFixing": {
+                      "observationPeriod": {
+                        "main": {}
+                      }
+                    }
+                  }
+                },
+                {
+                  "underlying": {
+                    "id": "67108956"
+                  },
+                  "underlyingComponent": {
+                    "metadataMarker": {
+                      "primaryField": "underlying"
+                    },
+                    "underlying": {
+                      "id": "67108956"
+                    }
+                  },
+                  "fixingDetails": {
+                    "initialFixing": {
+                      "observationPeriod": {
+                        "main": {}
+                      },
+                      "spotRefSourced": {
+                        "value": {
+                          "value": 11668
+                        },
+                        "source": {
+                          "id": "INPUT"
+                        }
+                      }
+                    },
+                    "finalFixing": {
+                      "observationPeriod": {
+                        "main": {}
+                      }
+                    }
+                  }
+                }
+              ],
+              "basketComponentsRange": {
+                "discrete": {
+                  "basketComponent": [
+                    {
+                      "underlying": {
+                        "id": "67108886"
+                      },
+                      "underlyingComponent": {
+                        "metadataMarker": {
+                          "primaryField": "underlying"
+                        },
+                        "underlying": {
+                          "id": "67108886"
+                        }
+                      },
+                      "fixingDetails": {
+                        "initialFixing": {
+                          "observationPeriod": {
+                            "main": {}
+                          },
+                          "spotRefSourced": {
+                            "value": {
+                              "value": 6539
+                            },
+                            "source": {
+                              "id": "INPUT"
+                            }
+                          }
+                        },
+                        "finalFixing": {
+                          "observationPeriod": {
+                            "main": {}
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "underlying": {
+                        "id": "67110204"
+                      },
+                      "underlyingComponent": {
+                        "metadataMarker": {
+                          "primaryField": "underlying"
+                        },
+                        "underlying": {
+                          "id": "67110204"
+                        }
+                      },
+                      "fixingDetails": {
+                        "initialFixing": {
+                          "observationPeriod": {
+                            "main": {}
+                          },
+                          "spotRefSourced": {
+                            "value": {
+                              "value": 3826
+                            },
+                            "source": {
+                              "id": "INPUT"
+                            }
+                          }
+                        },
+                        "finalFixing": {
+                          "observationPeriod": {
+                            "main": {}
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "underlying": {
+                        "id": "67115459"
+                      },
+                      "underlyingComponent": {
+                        "metadataMarker": {
+                          "primaryField": "underlying"
+                        },
+                        "underlying": {
+                          "id": "67115459"
+                        }
+                      },
+                      "fixingDetails": {
+                        "initialFixing": {
+                          "observationPeriod": {
+                            "main": {}
+                          },
+                          "spotRefSourced": {
+                            "value": {
+                              "value": 4144
+                            },
+                            "source": {
+                              "id": "INPUT"
+                            }
+                          }
+                        },
+                        "finalFixing": {
+                          "observationPeriod": {
+                            "main": {}
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "underlying": {
+                        "id": "67108956"
+                      },
+                      "underlyingComponent": {
+                        "metadataMarker": {
+                          "primaryField": "underlying"
+                        },
+                        "underlying": {
+                          "id": "67108956"
+                        }
+                      },
+                      "fixingDetails": {
+                        "initialFixing": {
+                          "observationPeriod": {
+                            "main": {}
+                          },
+                          "spotRefSourced": {
+                            "value": {
+                              "value": 11668
+                            },
+                            "source": {
+                              "id": "INPUT"
+                            }
+                          }
+                        },
+                        "finalFixing": {
+                          "observationPeriod": {
+                            "main": {}
+                          }
+                        }
+                      }
+                    }
+                  ],
+                  "source": {
+                    "id": "INPUT"
+                  }
+                }
+              },
+              "basketType": {
+                "id": "WORSTOF"
+              },
+              "currencyProtectionType": {
+                "rangeable": {
+                  "discreteValue": {
+                    "value": {
+                      "id": "QUANTO"
+                    },
+                    "source": {
+                      "id": "ENRICHED"
+                    }
+                  }
+                }
+              }
+            },
+            "lifecycle": {
+              "maturity": {
+                "isoCode": "P1Y"
+              },
+              "sourcedMaturity": {
+                "value": {
+                  "isoCode": "P1Y"
+                },
+                "source": {
+                  "id": "INPUT"
+                }
+              },
+              "dates": {
+                "initialFixingDate": {
+                  "utcEpochInMillis": 1645660800000
+                },
+                "issueDate": {
+                  "utcEpochInMillis": 1646265600000
+                },
+                "finalFixingDate": {
+                  "utcEpochInMillis": 1677196800000
+                },
+                "redemptionDate": {
+                  "utcEpochInMillis": 1677801600000
+                },
+                "initialFixingSourcedDate": {
+                  "value": {
+                    "utcEpochInMillis": 1645660800000
+                  },
+                  "source": {
+                    "id": "INPUT"
+                  }
+                },
+                "issueSourcedDate": {
+                  "value": {
+                    "utcEpochInMillis": 1646265600000
+                  },
+                  "source": {
+                    "id": "INPUT"
+                  }
+                },
+                "finalFixingSourcedDate": {
+                  "value": {
+                    "utcEpochInMillis": 1677196800000
+                  },
+                  "source": {
+                    "id": "INPUT"
+                  }
+                },
+                "redemptionSourcedDate": {
+                  "value": {
+                    "utcEpochInMillis": 1677801600000
+                  },
+                  "source": {
+                    "id": "INPUT"
+                  }
+                }
+              }
+            },
+            "eventFrequency": {
+              "isoCode": "P3M"
+            },
+            "sourcedEventFrequency": {
+              "value": {
+                "isoCode": "P3M"
+              },
+              "source": {
+                "id": "INPUT"
+              }
+            },
+            "schedule": {
+              "scheduleEntries": [
+                {
+                  "observationDate": {
+                    "value": {
+                      "utcEpochInMillis": 1653350400000
+                    },
+                    "source": {
+                      "id": "INPUT"
+                    }
+                  },
+                  "paymentDate": {
+                    "value": {
+                      "utcEpochInMillis": 1654041600000
+                    },
+                    "source": {
+                      "id": "INPUT"
+                    }
+                  },
+                  "redemptionEvent": {
+                    "amount": {
+                      "metadataMarker": {},
+                      "absolute": {
+                        "rangeable": {
+                          "discreteValue": {
+                            "value": {
+                              "value": 1000
+                            },
+                            "source": {
+                              "id": "INPUT"
+                            }
+                          }
+                        }
+                      },
+                      "relative": {
+                        "rangeable": {
+                          "discreteValue": {
+                            "value": {
+                              "value": 100
+                            },
+                            "source": {
+                              "id": "INPUT"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "couponEvent": {
+                    "trigger": {
+                      "metadataMarker": {
+                        "primaryField": "relative"
+                      },
+                      "relative": {
+                        "rangeable": {
+                          "discreteValue": {
+                            "value": {
+                              "value": 80
+                            },
+                            "source": {
+                              "id": "INPUT"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "amount": {
+                      "metadataMarker": {},
+                      "absolute": {
+                        "rangeable": {
+                          "discreteValue": {
+                            "value": {
+                              "value": 25
+                            },
+                            "source": {
+                              "id": "INPUT"
+                            }
+                          }
+                        }
+                      },
+                      "relative": {
+                        "rangeable": {
+                          "discreteValue": {
+                            "value": {
+                              "value": 2.5
+                            },
+                            "source": {
+                              "id": "INPUT"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "observationDate": {
+                    "value": {
+                      "utcEpochInMillis": 1661299200000
+                    },
+                    "source": {
+                      "id": "INPUT"
+                    }
+                  },
+                  "paymentDate": {
+                    "value": {
+                      "utcEpochInMillis": 1661904000000
+                    },
+                    "source": {
+                      "id": "INPUT"
+                    }
+                  },
+                  "redemptionEvent": {
+                    "amount": {
+                      "metadataMarker": {},
+                      "absolute": {
+                        "rangeable": {
+                          "discreteValue": {
+                            "value": {
+                              "value": 1000
+                            },
+                            "source": {
+                              "id": "INPUT"
+                            }
+                          }
+                        }
+                      },
+                      "relative": {
+                        "rangeable": {
+                          "discreteValue": {
+                            "value": {
+                              "value": 100
+                            },
+                            "source": {
+                              "id": "INPUT"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "couponEvent": {
+                    "trigger": {
+                      "metadataMarker": {
+                        "primaryField": "relative"
+                      },
+                      "relative": {
+                        "rangeable": {
+                          "discreteValue": {
+                            "value": {
+                              "value": 80
+                            },
+                            "source": {
+                              "id": "INPUT"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "amount": {
+                      "metadataMarker": {},
+                      "absolute": {
+                        "rangeable": {
+                          "discreteValue": {
+                            "value": {
+                              "value": 25
+                            },
+                            "source": {
+                              "id": "INPUT"
+                            }
+                          }
+                        }
+                      },
+                      "relative": {
+                        "rangeable": {
+                          "discreteValue": {
+                            "value": {
+                              "value": 2.5
+                            },
+                            "source": {
+                              "id": "INPUT"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "observationDate": {
+                    "value": {
+                      "utcEpochInMillis": 1669334400000
+                    },
+                    "source": {
+                      "id": "INPUT"
+                    }
+                  },
+                  "paymentDate": {
+                    "value": {
+                      "utcEpochInMillis": 1669939200000
+                    },
+                    "source": {
+                      "id": "INPUT"
+                    }
+                  },
+                  "redemptionEvent": {
+                    "amount": {
+                      "metadataMarker": {},
+                      "absolute": {
+                        "rangeable": {
+                          "discreteValue": {
+                            "value": {
+                              "value": 1000
+                            },
+                            "source": {
+                              "id": "INPUT"
+                            }
+                          }
+                        }
+                      },
+                      "relative": {
+                        "rangeable": {
+                          "discreteValue": {
+                            "value": {
+                              "value": 100
+                            },
+                            "source": {
+                              "id": "INPUT"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "couponEvent": {
+                    "trigger": {
+                      "metadataMarker": {
+                        "primaryField": "relative"
+                      },
+                      "relative": {
+                        "rangeable": {
+                          "discreteValue": {
+                            "value": {
+                              "value": 80
+                            },
+                            "source": {
+                              "id": "INPUT"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "amount": {
+                      "metadataMarker": {},
+                      "absolute": {
+                        "rangeable": {
+                          "discreteValue": {
+                            "value": {
+                              "value": 25
+                            },
+                            "source": {
+                              "id": "INPUT"
+                            }
+                          }
+                        }
+                      },
+                      "relative": {
+                        "rangeable": {
+                          "discreteValue": {
+                            "value": {
+                              "value": 2.5
+                            },
+                            "source": {
+                              "id": "INPUT"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "observationDate": {
+                    "value": {
+                      "utcEpochInMillis": 1677196800000
+                    },
+                    "source": {
+                      "id": "INPUT"
+                    }
+                  },
+                  "paymentDate": {
+                    "value": {
+                      "utcEpochInMillis": 1677801600000
+                    },
+                    "source": {
+                      "id": "INPUT"
+                    }
+                  },
+                  "couponEvent": {
+                    "trigger": {
+                      "metadataMarker": {
+                        "primaryField": "relative"
+                      },
+                      "relative": {
+                        "rangeable": {
+                          "discreteValue": {
+                            "value": {
+                              "value": 80
+                            },
+                            "source": {
+                              "id": "INPUT"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "amount": {
+                      "metadataMarker": {},
+                      "absolute": {
+                        "rangeable": {
+                          "discreteValue": {
+                            "value": {
+                              "value": 25
+                            },
+                            "source": {
+                              "id": "INPUT"
+                            }
+                          }
+                        }
+                      },
+                      "relative": {
+                        "rangeable": {
+                          "discreteValue": {
+                            "value": {
+                              "value": 2.5
+                            },
+                            "source": {
+                              "id": "INPUT"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              ],
+              "source": {
+                "id": "INPUT"
+              }
+            }
+          },
+          "issueDate": {
+            "main": {}
+          },
+          "denomination": {
+            "value": {
+              "value": 1000
+            }
+          },
+          "faceValue": {
+            "typedValue": {
+              "metadataMarker": {
+                "primaryField": "absolute"
+              },
+              "absolute": {
+                "rangeable": {
+                  "discreteValue": {
+                    "value": {
+                      "value": 1000
+                    },
+                    "source": {
+                      "id": "INPUT"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "couponFeature": {
+            "couponMetadata": {
+              "eventMetadata": {
+                "frequency": {},
+                "condition": {
+                  "conditional": {
+                    "basket": {
+                      "main": {}
+                    },
+                    "trigger": {
+                      "rangeable": {
+                        "discreteValue": {
+                          "value": {
+                            "value": 80
+                          },
+                          "source": {
+                            "id": "INPUT"
+                          }
+                        }
+                      },
+                      "strictness": {
+                        "id": "BEYOND"
+                      },
+                      "direction": {
+                        "id": "UP"
+                      }
+                    },
+                    "memory": {
+                      "memoryGroup": {
+                        "id": "MAIN_GROUP"
+                      },
+                      "memoryType": {
+                        "id": "CUMULATIVE_AMOUNT"
+                      }
+                    }
+                  }
+                },
+                "payment": {
+                  "paymentAmount": {
+                    "fixedAmount": {
+                      "rangeable": {
+                        "discreteValue": {
+                          "value": {
+                            "value": 2.5
+                          },
+                          "source": {
+                            "id": "INPUT"
+                          }
+                        }
+                      },
+                      "valueType": {
+                        "id": "RELATIVE"
+                      },
+                      "typedValue": {
+                        "metadataMarker": {},
+                        "absolute": {
+                          "rangeable": {
+                            "discreteValue": {
+                              "value": {
+                                "value": 25
+                              },
+                              "source": {
+                                "id": "INPUT"
+                              }
+                            }
+                          }
+                        },
+                        "relative": {
+                          "rangeable": {
+                            "discreteValue": {
+                              "value": {
+                                "value": 2.5
+                              },
+                              "source": {
+                                "id": "INPUT"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "periodicity": {
+                "id": "PER_EVENT"
+              },
+              "periodicValue": {
+                "metadataMarker": {
+                  "primaryField": "perEvent"
+                },
+                "perEvent": {
+                  "metadataMarker": {},
+                  "absolute": {
+                    "rangeable": {
+                      "discreteValue": {
+                        "value": {
+                          "value": 25
+                        },
+                        "source": {
+                          "id": "INPUT"
+                        }
+                      }
+                    }
+                  },
+                  "relative": {
+                    "rangeable": {
+                      "discreteValue": {
+                        "value": {
+                          "value": 2.5
+                        },
+                        "source": {
+                          "id": "INPUT"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "fees": [],
+          "feeFeature": {
+            "distributionFee": {
+              "value": {
+                "rangeable": {
+                  "discreteValue": {
+                    "value": {
+                      "value": 0
+                    },
+                    "source": {
+                      "id": "INPUT"
+                    }
+                  }
+                },
+                "valueType": {
+                  "id": "RELATIVE"
+                },
+                "typedValue": {
+                  "metadataMarker": {
+                    "primaryField": "relative"
+                  },
+                  "relative": {
+                    "rangeable": {
+                      "discreteValue": {
+                        "value": {
+                          "value": 0
+                        },
+                        "source": {
+                          "id": "INPUT"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "periodicity": {
+                "id": "PER_MATURITY"
+              },
+              "periodicValue": {
+                "metadataMarker": {
+                  "primaryField": "perMaturity"
+                },
+                "perMaturity": {
+                  "metadataMarker": {
+                    "primaryField": "relative"
+                  },
+                  "relative": {
+                    "rangeable": {
+                      "discreteValue": {
+                        "value": {
+                          "value": 0
+                        },
+                        "source": {
+                          "id": "INPUT"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "redemptionFeature": {
+            "redemptionMetadata": {
+              "earlyRedemptionMetadata": {
+                "frequency": {},
+                "condition": {
+                  "conditional": {
+                    "basket": {
+                      "main": {}
+                    }
+                  }
+                }
+              },
+              "finalRedemption": {
+                "condition": {
+                  "guaranteed": {}
+                },
+                "standardPayment": {
+                  "paymentAmount": {
+                    "participationAmount": {
+                      "metadata": {
+                        "upsides": [],
+                        "downsides": [
+                          {
+                            "referenceBasket": {
+                              "main": {}
+                            },
+                            "strikeLevel": {
+                              "rangeable": {
+                                "discreteValue": {
+                                  "value": {
+                                    "value": 80
+                                  },
+                                  "source": {
+                                    "id": "INPUT"
+                                  }
+                                }
+                              },
+                              "valueType": {
+                                "id": "RELATIVE"
+                              },
+                              "typedValue": {
+                                "metadataMarker": {
+                                  "primaryField": "relative"
+                                },
+                                "relative": {
+                                  "rangeable": {
+                                    "discreteValue": {
+                                      "value": {
+                                        "value": 80
+                                      },
+                                      "source": {
+                                        "id": "INPUT"
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "participations": []
+                    }
+                  },
+                  "paymentDate": {
+                    "main": {}
+                  }
+                },
+                "settlementType": {
+                  "id": "CASH"
+                }
+              }
+            }
+          }
+        },
+        "distributionContext": {
+          "legalEntity": {
+            "rangeable": {
+              "discreteValue": {
+                "value": {
+                  "id": "LeonteqGuernsey",
+                  "properties": {
+                    "properties.issuer.id": "LeonteqGuernsey"
+                  }
+                },
+                "source": {
+                  "id": "INPUT"
+                }
+              }
+            }
+          },
+          "investment": {
+            "value": {
+              "value": 500000
+            },
+            "currency": {
+              "id": "USD"
+            }
+          },
+          "investmentContext": {
+            "investmentAmount": {
+              "inCurrency": {
+                "value": {
+                  "value": 500000
+                },
+                "source": {
+                  "id": "INPUT"
+                }
+              }
+            },
+            "currency": {
+              "id": "USD"
+            }
+          },
+          "issuePriceFeature": {
+            "level": {
+              "rangeable": {
+                "discreteValue": {
+                  "value": {
+                    "value": 100
+                  },
+                  "source": {
+                    "id": "INPUT"
+                  }
+                }
+              },
+              "valueType": {
+                "id": "RELATIVE"
+              },
+              "typedValue": {
+                "metadataMarker": {
+                  "primaryField": "relative"
+                },
+                "relative": {
+                  "rangeable": {
+                    "discreteValue": {
+                      "value": {
+                        "value": 100
+                      },
+                      "source": {
+                        "id": "INPUT"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "productIdentifiers": {
+        "isin": {
+          "value": {
+            "value": "CH1163995645"
+          }
+        },
+        "valor": {
+          "value": {
+            "value": "116399564"
+          }
+        }
+      }
+    },
+    "metadata": {
+      "productId": {
+        "id": "160875947"
+      },
+      "source": {
+        "value": "INTEGRATION"
+      },
+      "pricingTag": {
+        "value": "6056d463-4c63-4835-a640-9c1d22d1af80"
+      }
+    }
+  }
+}
